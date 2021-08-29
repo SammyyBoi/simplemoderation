@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+<h1 id="simple-moderation-document">Simple Moderation Document</h1>
+<p><strong>Simple Moderation Version 1.0</strong></p>
+<h3 id="command-list-">Command list:</h3>
+<p><strong>Moderation</strong>:</p>
+<pre><code>
+Warn <span class="hljs-string">[Mute Members]</span>,
 
-You can use the [editor on GitHub](https://github.com/SammyyBoi/simplemoderation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Unmute <span class="hljs-string">[Mute Members]</span>,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Warn <span class="hljs-string">[Manage Messages]</span>,
 
-### Markdown
+Kick <span class="hljs-string">[Kick Members]</span>,
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ban <span class="hljs-string">[Ban Members]</span>,
+</code></pre><p><strong>Utility</strong>:</p>
+<pre><code>
+Prune <span class="hljs-selector-attr">[Manage Messages]</span>,
 
-```markdown
-Syntax highlighted code block
+Help <span class="hljs-selector-attr">[None]</span>,
 
-# Header 1
-## Header 2
-### Header 3
+MuteInfo <span class="hljs-selector-attr">[None]</span>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SammyyBoi/simplemoderation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Ping <span class="hljs-selector-attr">[None]</span>,
+</code></pre><h2 id="this-document-is-to-be-edited-at-any-point-in-time-">This document is to be edited at any point in time.</h2>
